@@ -1,7 +1,7 @@
 This is a Case Study solving the problem of predicting the accurate delivery date of products in the Supply Chain Management use case
 
 **Problem Statement**
-The following hypothetical dataset simulates product shipments from Dell facilities to US customers for
+The following hypothetical dataset simulates product shipments from company facilities to US customers for
 a span of 8 months.
 The problem statement is as follows – How do we give an accurate estimate of the final delivery date
 to our customers?
